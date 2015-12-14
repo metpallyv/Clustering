@@ -1,7 +1,7 @@
 Steps to run the project
 
 ##Kmeans
-python kmean.py -f <dataset> -e <no of clusters>
+python kmeans.py -f <dataset> -e <no of clusters>
 example: python kmean.py -f ecoliData.csv -e 10
 
 #GMM 
